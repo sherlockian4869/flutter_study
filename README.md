@@ -1,16 +1,14 @@
-# flutter_with_firebase
+# flutter学習日記
 
-A new Flutter project.
+1. チャットアプリ作成
+    2. Firebase連携
+    3. 状態管理
 
-## Getting Started
+__1月10日__  
+下記資料をもとにチャットアプリを作成  
+(Firebaseを使ったアプリ概要)[https://www.flutter-study.dev/firebase-app/about-firebase-app]  
+- チャットアプリの土台の作成
+- Firebase連携
+- 状態管理の学習(provider)
+- 状態管理の学習(RiverPods)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
