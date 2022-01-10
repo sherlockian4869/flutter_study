@@ -6,7 +6,7 @@
 
 __1月10日__  
 下記資料をもとにチャットアプリを作成  
-[Firebaseを使ったアプリ概要](https://www.flutter-study.dev/firebase-app/about-firebase-app)  
+(Firebaseを使ったアプリ概要){https://www.flutter-study.dev/firebase-app/about-firebase-app]  
 - チャットアプリの土台の作成
 - Firebase連携
 - 状態管理の学習(provider)
